@@ -1,0 +1,6 @@
+Aren's Fancy Worls is a shop in a well developed township in a city (Ghaziabad), the shop sells statiuonary items along with gift items and costumes for fancy dress competition.
+
+
+
+
+This project has only the data of stationary items as that what i got from the owner and it only includes the sales, purchase and inventory data of one month and all the data was taken at the month end and it includes all the sales and purchase done in that month (only for stationary items) and the inventory at the month end.
